@@ -1,6 +1,4 @@
 
-}
-
 :root {
     --bg: #080b14;
     --panel: #101625;
@@ -1077,3 +1075,4 @@ td small {
         animation-iteration-count: 1 !important;
         transition-duration: .01ms !important;
     }
+}
